@@ -163,6 +163,7 @@ AppPackages/
 !*.[Cc]ache/
 
 # Others
+bower_components/
 ClientBin/
 [Ss]tyle[Cc]op.*
 ~$*
@@ -210,3 +211,6 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+
+**/**/wwwroot/lib/
